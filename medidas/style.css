@@ -1,0 +1,18 @@
+P{
+    background-color: brown;
+}
+
+HTML{
+    font-size: 62.5%;
+}
+
+.pixeles{
+    font-size: 16px;
+}
+
+div{
+font-size: 20px;
+}
+.rem{
+    font-size: 5.6rem;
+}
